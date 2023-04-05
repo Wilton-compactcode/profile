@@ -92,7 +92,9 @@ return (
 <Name>WILTON GONÇALVES</Name>
 <Bio>
   <strong>
-  Olá, eu sou um desenvolvedor Web apaixonado por criar coisas incríveis na internet.<br/> Estou sempre aprendendo novas tecnologias e amo trabalhar em projetos desafiadores.
+  Olá, eu sou um desenvolvedor Web<br/>
+   apaixonado por criar coisas incríveis na internet.<br/>
+    Estou sempre aprendendo novas tecnologias e<br/> amo trabalhar em projetos desafiadores.
   </strong>
 </Bio>
 <SkillsContainer>
