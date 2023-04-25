@@ -113,7 +113,7 @@ return (
 <SocialLink href="https://github.com/Wilton-compactcode" target="_blank">
 <SocialLinkIcon icon={faGithub} />
 </SocialLink>
-<SocialLink href="https://www.linkedin.com/in/wilton-goncalves-santana-07985a180/" target="_blank">
+<SocialLink href="https://www.linkedin.com/in/wilton-goncalves-santana-dev-web/" target="_blank">
 <SocialLinkIcon icon={faLinkedin} />
 </SocialLink>
 <SocialLink href="https://api.whatsapp.com/send?phone=5511980660741&text=Ol%C3%A1,%20eu%20gostaria%20de%20um%20or%C3%A7amento" target="_blank">
