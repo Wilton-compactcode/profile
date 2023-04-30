@@ -43,7 +43,7 @@ const Name = styled.h1`
 const Bio = styled.p`
   font-size: 18px;
   text-align: center;
-  color: #4B0082;
+  color: #2F4F4F;
   margin-bottom: 20px;
 `;
 
