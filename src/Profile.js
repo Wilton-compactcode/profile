@@ -15,6 +15,7 @@ const Card = styled.div`
   background-color: #87CEEB;
   border-radius: 10px;
   margin-top:10%;
+  width: 350px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 40px;
   text-align: center; /* Adicionado para centralizar o avatar */
@@ -23,6 +24,7 @@ const Card = styled.div`
 const Avatar = styled.img`
   width: 150px;
   height: 150px;
+  border: solid 2px blue;
   border-radius: 50%;
   margin-bottom: 20px; /* Alterado para 20px */
 `;
@@ -59,7 +61,7 @@ const Skill = styled.div`
   padding: 8px 16px;
   border-radius: 20px;
   margin: 5px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
 `;
 
@@ -102,6 +104,7 @@ return (
 <Skill>CSS</Skill>
 <Skill>JavaScript</Skill>
 <Skill>React.js</Skill>
+<Skill>WordPress</Skill>
 </SkillsContainer>
 <SocialContainer>
 <SocialLink href="https://www.facebook.com/WiltonGoncalvesSantana/" target="_blank">
