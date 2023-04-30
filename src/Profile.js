@@ -17,7 +17,7 @@ const Card = styled.div`
   margin-top:10%;
   width: 350px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  padding: 40px;
+  padding: 30px;
   text-align: center; /* Adicionado para centralizar o avatar */
 `;
 
