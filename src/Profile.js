@@ -144,7 +144,7 @@ function Profile() {
           <SocialLink href="https://www.facebook.com/WiltonGoncalvesSantana/" target="_blank">
             <SocialLinkIcon icon={faFacebook} />
           </SocialLink>
-          <SocialLink href="https://www.instagram.com/will_gons/" target="_blank">
+          <SocialLink href="https://www.instagram.com/wiltongoncalves.dev/" target="_blank">
             <SocialLinkIcon icon={faInstagram} />
           </SocialLink>
           <SocialLink href="https://github.com/Wilton-compactcode" target="_blank">
@@ -154,7 +154,7 @@ function Profile() {
             <SocialLinkIcon icon={faLinkedin} />
           </SocialLink>
           <SocialLink
-            href="https://api.whatsapp.com/send?phone=5511980660741&text=Ol%C3%A1,%20eu%20gostaria%20de%20um%20or%C3%A7amento"
+            href="https://api.whatsapp.com/send?phone=5511941444178&text=Ol%C3%A1,%20eu%20gostaria%20de%20um%20or%C3%A7amento"
             target="_blank"
           >
             <SocialLinkIcon icon={faWhatsapp} />
